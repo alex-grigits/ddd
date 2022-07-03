@@ -1,0 +1,19 @@
+{
+  "name": "ddd",
+  "version": "0.0.1",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-grigits/ddd.git"
+  },
+  "author": "alex-grigits",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex-grigits/ddd/issues"
+  },
+  "homepage": "https://github.com/alex-grigits/ddd#readme"
+}
