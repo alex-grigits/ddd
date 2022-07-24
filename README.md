@@ -1,5 +1,3 @@
-# DDD
+# Project 1
 
-testing
-
-testing 2
+Test Node.js app
